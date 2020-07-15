@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNCountriesName
                    DESC
-  s.homepage     = "https://github.com/Donhv/RNCountriesName"
+  s.homepage     = "https://github.com/Donhv/react-native-countries-name"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
